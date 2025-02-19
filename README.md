@@ -1,5 +1,3 @@
-# reading-notes
-
 # Luis Enrique Rios Sosa
 **Soy un chico apasionado al futbol, especialmente me gusta la posición de arquero. Suelo jugar la mayoria de fines de semana con mis amigos y asi relajarme un rato. Igualmente suelo adquirir conocimiento en algunos lenguajes de programación.**
 <img src="https://avatars.githubusercontent.com/u/155596291?v=4" alt="">
