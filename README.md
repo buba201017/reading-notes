@@ -1,7 +1,8 @@
 # Para ver el read06:
-[Ver read06.md](read06.md)
+[Ver read06](read06.md)
 
-# Para ver el 
+# Para ver el lab05:
+[Ver lab05](markdown-guide.md)
 
 
 # Luis Enrique Rios Sosa
