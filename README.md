@@ -1,3 +1,9 @@
+# Para ver el read06:
+[Ver read06.md](read06.md)
+
+# Para ver el 
+
+
 # Luis Enrique Rios Sosa
 **Soy un chico apasionado al futbol, especialmente me gusta la posición de arquero. Suelo jugar la mayoria de fines de semana con mis amigos y asi relajarme un rato. Igualmente suelo adquirir conocimiento en algunos lenguajes de programación.**
 
