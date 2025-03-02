@@ -1,3 +1,12 @@
+# Para ver el read10:
+[Ver read10](read10.md)
+
+# Para ver el read09:
+[Ver read09](read09.md)
+
+# Para ver el read08:
+[Ver read08](read08.md)
+
 # Para ver el read07:
 [Ver read07](read07.md)
 
